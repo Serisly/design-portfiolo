@@ -166,7 +166,7 @@ let connect_stile_timeout=setInterval(function(){console.log(window.two_page_loa
 		<div class="elementor-element elementor-element-vdso0ea2 e-con-full   e-flex e-con" data-id="vdso0ea2" data-element_type="container" data-settings="{" background_background":"classic","content_width":"full"}">
 				<div class="elementor-element elementor-element-3rAqfjDl elementor-widget__width-inherit elementor-widget-mobile__width-inherit   elementor-widget elementor-widget-text-editor" data-id="3rAqfjDl" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><br>Hello! I’m Seris, a game designer who loves working on crazy complex games. I have experience in the horror and RPG genre and have worked in the industry professionally for around a year and a half. I'm open to relocation/remote and looking for new opportunities to learn and build my career. <br><br>Contact me if you’re interested to work with me!</p><p></p><p>y4gamer2@gmail.com<br>Seris#2247</p>						</div>
+							<p><br>Hello! I’m Seris, a game designer who loves working on crazy complex games. I have experience in the horror and RPG genre and have worked in the industry professionally for around a year and a half. I'm open to relocation/remote and looking for new opportunities to learn and build my career. <br><br>Contact me if you’re interested to work with me!</p><p></p><p><br>y4gamer2@gmail.com<br>Seris#2247</p>						</div>
 				</div>
 				</div>
 					</div>
@@ -218,7 +218,7 @@ let connect_stile_timeout=setInterval(function(){console.log(window.two_page_loa
 				</div>
 				<div class="elementor-element elementor-element-YYYNSFcw elementor-widget__width-inherit elementor-widget-mobile__width-inherit   elementor-widget elementor-widget-text-editor" data-id="YYYNSFcw" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><span style="font-weight: bold;">Team Size: 10+</span></p><p><strong>Tool: Unity Engine</strong></p>						</div>
+							<p><span style="font-weight: bold;">Team Size: 10+</span></p><p><span style="font-weight: bold;">Tool: Unity Engine</span></p>						</div>
 				</div>
 		<div class="elementor-element elementor-element-IptXpmvt e-con-full   e-flex e-con" data-id="IptXpmvt" data-element_type="container" data-settings="{" content_width":"full"}">
 				<div class="elementor-element elementor-element-yZLRl9AQ elementor-widget__width-initial elementor-widget-mobile__width-inherit   e-transform elementor-widget elementor-widget-image" data-id="yZLRl9AQ" data-element_type="widget" data-settings="{" _transform_translateX_effect":{"unit":"px","size":947,"sizes":[]},"_transform_translateY_effect":{"unit":"px","size":-86,"sizes":[]},"_transform_translateX_effect_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateX_effect_mobile":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_tablet":{"unit":"px","size":"","sizes":[]},"_transform_translateY_effect_mobile":{"unit":"px","size":"","sizes":[]}}" data-widget_type="image.default">
